@@ -214,30 +214,31 @@ class Decoder(nn.Module):
         self.gate_threshold = hparams.gate_threshold
         self.p_attention_dropout = hparams.p_attention_dropout
         self.p_decoder_dropout = hparams.p_decoder_dropout
+        self.encoder_embedding_dim += hparams.speakers_emb_dim + hparams.styles_emb_dim
 
         self.prenet = Prenet(
             hparams.n_mel_channels * hparams.n_frames_per_step,
             [hparams.prenet_dim, hparams.prenet_dim])
 
         self.attention_rnn = nn.LSTMCell(
-            hparams.prenet_dim + hparams.encoder_embedding_dim,
+            hparams.prenet_dim + self.encoder_embedding_dim,
             hparams.attention_rnn_dim)
 
         self.attention_layer = Attention(
-            hparams.attention_rnn_dim, hparams.encoder_embedding_dim,
+            hparams.attention_rnn_dim, self.encoder_embedding_dim,
             hparams.attention_dim, hparams.attention_location_n_filters,
             hparams.attention_location_kernel_size)
 
         self.decoder_rnn = nn.LSTMCell(
-            hparams.attention_rnn_dim + hparams.encoder_embedding_dim,
+            hparams.attention_rnn_dim + self.encoder_embedding_dim,
             hparams.decoder_rnn_dim, 1)
 
         self.linear_projection = LinearNorm(
-            hparams.decoder_rnn_dim + hparams.encoder_embedding_dim,
+            hparams.decoder_rnn_dim + self.encoder_embedding_dim,
             hparams.n_mel_channels * hparams.n_frames_per_step)
 
         self.gate_layer = LinearNorm(
-            hparams.decoder_rnn_dim + hparams.encoder_embedding_dim, 1,
+            hparams.decoder_rnn_dim + self.encoder_embedding_dim, 1,
             bias=True, w_init_gain='sigmoid')
 
     def get_go_frame(self, memory):
@@ -470,18 +471,23 @@ class Tacotron2(nn.Module):
         self.decoder = Decoder(hparams)
         self.postnet = Postnet(hparams)
 
+        self.speakers_emb = nn.Embedding(hparams.n_speakers, hparams.speakers_emb_dim)
+        self.styles_emb = nn.Embedding(hparams.n_styles, hparams.styles_emb_dim)
+
     def parse_batch(self, batch):
         text_padded, input_lengths, mel_padded, gate_padded, \
-            output_lengths = batch
+            output_lengths, speakers, styles = batch
         text_padded = to_gpu(text_padded).long()
         input_lengths = to_gpu(input_lengths).long()
         max_len = torch.max(input_lengths.data).item()
         mel_padded = to_gpu(mel_padded).float()
         gate_padded = to_gpu(gate_padded).float()
         output_lengths = to_gpu(output_lengths).long()
+        speakers = to_gpu(speakers).long()
+        styles = to_gpu(styles).long()
 
         return (
-            (text_padded, input_lengths, mel_padded, max_len, output_lengths),
+            (text_padded, input_lengths, mel_padded, max_len, output_lengths, speakers, styles),
             (mel_padded, gate_padded))
 
     def parse_output(self, outputs, output_lengths=None):
@@ -497,12 +503,18 @@ class Tacotron2(nn.Module):
         return outputs
 
     def forward(self, inputs):
-        text_inputs, text_lengths, mels, max_len, output_lengths = inputs
+        text_inputs, text_lengths, mels, max_len, output_lengths, speakers, styles = inputs
         text_lengths, output_lengths = text_lengths.data, output_lengths.data
 
         embedded_inputs = self.embedding(text_inputs).transpose(1, 2)
 
         encoder_outputs = self.encoder(embedded_inputs, text_lengths)
+
+        speaker_emb = self.speakers_emb(speakers)
+        styles_emb = self.styles_emb(styles)
+        speaker_emb = speaker_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
+        styles_emb = styles_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
+        encoder_outputs = torch.cat([encoder_outputs, speaker_emb, styles_emb], dim=-1)
 
         mel_outputs, gate_outputs, alignments = self.decoder(
             encoder_outputs, mels, memory_lengths=text_lengths)

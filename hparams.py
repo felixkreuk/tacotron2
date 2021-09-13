@@ -24,6 +24,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Data Parameters             #
         ################################
+        num_workers=0,
         load_mel_from_disk=False,
         training_files='filelists/ljs_audio_text_train_filelist.txt',
         validation_files='filelists/ljs_audio_text_val_filelist.txt',
@@ -44,6 +45,10 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################
+        n_speakers=4,
+        speakers_emb_dim=32,
+        n_styles=5,
+        styles_emb_dim=32,
         n_symbols=len(symbols),
         symbols_embedding_dim=512,
 

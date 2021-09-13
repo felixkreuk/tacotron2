@@ -29,10 +29,12 @@ class TextMelLoader(torch.utils.data.Dataset):
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
-        audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
+        audiopath, text, speaker, style = audiopath_and_text
         text = self.get_text(text)
         mel = self.get_mel(audiopath)
-        return (text, mel)
+        speaker = int(speaker)
+        style = int(style)
+        return (text, mel, speaker, style)
 
     def get_mel(self, filename):
         if not self.load_mel_from_disk:
@@ -107,5 +109,15 @@ class TextMelCollate():
             gate_padded[i, mel.size(1)-1:] = 1
             output_lengths[i] = mel.size(1)
 
+        speakers = torch.LongTensor(len(batch))
+        for i in range(len(ids_sorted_decreasing)):
+            speaker = batch[ids_sorted_decreasing[i]][2]
+            speakers[i] = speaker
+
+        styles = torch.LongTensor(len(batch))
+        for i in range(len(ids_sorted_decreasing)):
+            emotion = batch[ids_sorted_decreasing[i]][3]
+            styles[i] = emotion
+
         return text_padded, input_lengths, mel_padded, gate_padded, \
-            output_lengths
+            output_lengths, speakers, styles

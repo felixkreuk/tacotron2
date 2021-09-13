@@ -1,0 +1,346 @@
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0030.wav|I had faith in them.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0351.wav|It was more like sugar.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0343.wav|You mean for this State, General, Alberta.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_367-392_0386.wav|I can't argue with you, and you know that.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0361.wav|But he did not broach it, preferring to mature it carefully.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_141-168_0158.wav|Does that look good.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_57-84_0066.wav|He saw Jeanne falter for a moment.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0042.wav|How could he explain his possession of the sketch.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0048.wav|He looked at the handkerchief more, closely.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_281-308_0293.wav|They were deep in the primeval forest.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_421-448_0443.wav|He was worth nothing to the world.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_141-168_0158.wav|Does that look good.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0351.wav|It was more like sugar.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_225_252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0361.wav|But he did not broach it, preferring to mature it carefully.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0343.wav|You mean for this State, General, Alberta.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_57-84_0066.wav|He saw Jeanne falter for a moment.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_367-392_0386.wav|I can't argue with you, and you know that.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0030.wav|I had faith in them.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_421-448_0443.wav|He was worth nothing to the world.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_477-504_0495.wav|He bore no grudges and had few enemies.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_225_252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_141-168_0158.wav|Does that look good.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0351.wav|It was more like sugar.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_225_252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0361.wav|But he did not broach it, preferring to mature it carefully.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_57-84_0066.wav|He saw Jeanne falter for a moment.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_367-392_0386.wav|I can't argue with you, and you know that.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0343.wav|You mean for this State, General, Alberta.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_281-308_0293.wav|They were deep in the primeval forest.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_421-448_0443.wav|He was worth nothing to the world.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_477-504_0495.wav|He bore no grudges and had few enemies.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0030.wav|I had faith in them.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_225_252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0042.wav|How could he explain his possession of the sketch.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0343.wav|You mean for this State, General, Alberta.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_367-392_0386.wav|I can't argue with you, and you know that.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0361.wav|But he did not broach it, preferring to mature it carefully.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_57-84_0066.wav|He saw Jeanne falter for a moment.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0048.wav|He looked at the handkerchief more, closely.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_141-168_0158.wav|Does that look good.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0351.wav|It was more like sugar.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0030.wav|I had faith in them.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_281-308_0293.wav|They were deep in the primeval forest.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_421-448_0443.wav|He was worth nothing to the world.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_477-504_0495.wav|He bore no grudges and had few enemies.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_281-308_0293.wav|They were deep in the primeval forest.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_421-448_0443.wav|He was worth nothing to the world.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0030.wav|I had faith in them.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0361.wav|But he did not broach it, preferring to mature it carefully.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0048.wav|He looked at the handkerchief more, closely.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0343.wav|You mean for this State, General, Alberta.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_367-392_0386.wav|I can't argue with you, and you know that.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0042.wav|How could he explain his possession of the sketch.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_141-168_0158.wav|Does that look good.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0351.wav|It was more like sugar.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_57-84_0066.wav|He saw Jeanne falter for a moment.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_421-448_0443.wav|He was worth nothing to the world.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_477-504_0495.wav|He bore no grudges and had few enemies.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_365-392_0386.wav|I can't argue with you, and you know that.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0030.wav|I had faith in them.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0343.wav|You mean for this State, General, Alberta.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0361.wav|But he did not broach it, preferring to mature it carefully.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0048.wav|He looked at the handkerchief more, closely.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_141-168_0158.wav|Does that look good.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0042.wav|How could he explain his possession of the sketch.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_281-307_0293.wav|They were deep in the primeval forest.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_57-84_0066.wav|He saw Jeanne falter for a moment.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0351.wav|It was more like sugar.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_57-84_0066.wav|He saw Jeanne falter for a moment.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0030.wav|I had faith in them.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_281-308_0293.wav|They were deep in the primeval forest.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_169-196_0158.wav|Does that look good.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_169-196_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_141_168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_29-45_0030.wav|I had faith in them.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_141_168_0158.wav|Does that look good.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_57-84_0066.wav|He saw Jeanne falter for a moment.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_29-45_0042.wav|How could he explain his possession of the sketch.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_1-15_0001.wav|Author of the danger trail, Philip Steels, etc.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_46-56_0048.wav|He looked at the handkerchief more, closely.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_46-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_281-308_0293.wav|They were deep in the primeval forest.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0048.wav|He looked at the handkerchief more, closely.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_141-168_0158.wav|Does that look good.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_57-84_0066.wav|He saw Jeanne falter for a moment.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0042.wav|How could he explain his possession of the sketch.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0030.wav|I had faith in them.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_281-308_0293.wav|They were deep in the primeval forest.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0351.wav|It was more like sugar.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0030.wav|I had faith in them.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_141-168_0158.wav|Does that look good.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0361.wav|But he did not broach it, preferring to mature it carefully.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0343.wav|You mean for this State, General, Alberta.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_57-84_0066.wav|He saw Jeanne falter for a moment.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0042.wav|How could he explain his possession of the sketch.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0048.wav|He looked at the handkerchief more, closely.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_281-308_0293.wav|They were deep in the primeval forest.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_281-308_0293.wav|They were deep in the primeval forest.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_421-448_0443.wav|He was worth nothing to the world.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_477-504_0495.wav|He bore no grudges and had few enemies.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0030.wav|I had faith in them.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_369-392_0386.wav|I can't argue with you, and you know that.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0343.wav|You mean for this State, General, Alberta.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0361.wav|But he did not broach it, preferring to mature it carefully.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_57-84_0066.wav|He saw Jeanne falter for a moment.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_141-168_0158.wav|Does that look good.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_505-532_0532.wav|May drought destroy your crops.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0351.wav|It was more like sugar.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_29-56_0030.wav|I had faith in them.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_57-84_0066.wav|He saw Jeanne falter for a moment.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_29-56_0042.wav|How could he explain his possession of the sketch.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_113-136_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_29-56_0048.wav|He looked at the handkerchief more, closely.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_113-136_0136.wav|About him, everywhere, were the evidences of luxury and of age.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_141-168_0158.wav|Does that look good.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_533-560_0550.wav|This also became part of the daily schedule.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0048.wav|He looked at the handkerchief more, closely.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0042.wav|How could he explain his possession of the sketch.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0030.wav|I had faith in them.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0324.wav|It was not Red-Eye's way to forego revenge so easily.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_57-84_0066.wav|He saw Jeanne falter for a moment.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_141-168_0158.wav|Does that look good.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_421-448_0443.wav|He was worth nothing to the world.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_365-392_0386.wav|I can't argue with you, and you know that.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0030.wav|I had faith in them.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0351.wav|It was more like sugar.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0246.wav|You have heard always how he was the lover of the Princess Naomi.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0293.wav|They were deep in the primeval forest.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0343.wav|You mean for this State, General, Alberta.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0361.wav|But he did not broach it, preferring to mature it carefully.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0030.wav|I had faith in them.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_421-448_0441.wav|Violent life and athletic sports had never appealed to me.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_365-392_0386.wav|I can't argue with you, and you know that.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_477-504_0495.wav|He bore no grudges and had few enemies.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_281-308_0293.wav|They were deep in the primeval forest.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_421-448_0443.wav|He was worth nothing to the world.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_393-420_0405.wav|It seemed the ordained order of things that dogs should work.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_393-420_0407.wav|Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_57-84_0066.wav|He saw Jeanne falter for a moment.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0042.wav|How could he explain his possession of the sketch.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0351.wav|It was more like sugar.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_141-168_0158.wav|Does that look good.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0048.wav|He looked at the handkerchief more, closely.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0343.wav|You mean for this State, General, Alberta.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_309-336_0324.wav|It was not Red-Eye's way to forego revenge so easily.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0347.wav|They are greatly delighted with anything that is bright or giveth a sound.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_281-308_0293.wav|They were deep in the primeval forest.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0030.wav|I had faith in them.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_57-84_0066.wav|He saw Jeanne falter for a moment.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_141-168_0158.wav|Does that look good.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_141-168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0030.wav|I had faith in them.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_141_168_0158.wav|Does that look good.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_225_252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_141_168_0166.wav|Two days ago Jeanne learned where her father's men were hiding.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_113-140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0042.wav|How could he explain his possession of the sketch.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_57-73_0066.wav|He saw Jeanne falter for a moment.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_113-140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_281-308_0293.wav|They were deep in the primeval forest.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_225_252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_252-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0048.wav|He looked at the handkerchief more, closely.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_29-56_0030.wav|I had faith in them.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_113_140_0133.wav|Philip began to feel that he had foolishly overestimated his strength.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_113_140_0136.wav|About him, everywhere, were the evidences of luxury and of age.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_225-252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_281-308_0293.wav|They were deep in the primeval forest.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_253_280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_29-56_0042.wav|How could he explain his possession of the sketch.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_225-252_0246.wav|You have heard always how he was the lover of the Princess Naomi.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_1-28_0001.wav|Author of the danger trail, Philip Steels, etc.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_57-84_0066.wav|He saw Jeanne falter for a moment.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_29-56_0050.wav|In spite of their absurdity the words affected Philip curiously.|1|4

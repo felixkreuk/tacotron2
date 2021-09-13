@@ -1,0 +1,378 @@
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0036.wav|She turned in at the hotel.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_85-112_0101.wav|You, you would not keep the truth from me.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_309-336_0310.wav|Massage under tension, was the cryptic reply.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0354.wav|Fresh meat they failed to obtain.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_225-252_0251.wav|I may manage to freight a cargo back as well.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_367-392_0385.wav|That's what Carnegie did.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_336-364_0340.wav|It was like the beating of hoofs.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_393-420_0409.wav|He could feel a new stir in the land.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_253-280_0272.wav|You can take a vacation on pay.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_281-308_0281.wav|I do not blame you for anything; remember that.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_449-476_0476.wav|At this moment I felt a stir at my shoulder.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_169_196_0175.wav|Down there the earth was already swelling with life.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_57-84_0078.wav|Then, and at supper, he tried to fathom her.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_1-28_0015.wav|It's the aurora borealis.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_253-280_0253.wav|He it was that lived to found the family of the Patino.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_449-476_0457.wav|What I saw I could not at first believe.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_225-252_0230.wav|Do you know any good land around here.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_113-140_0130.wav|She was his now, forever.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/disgust_253-280_0259.wav|Think of investing in such an adventure.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Disgusted/Disgust_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|0|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_309-336_0310.wav|Massage under tension, was the cryptic reply.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0354.wav|Fresh meat they failed to obtain.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_197_224_0219.wav|At first he puzzled over something untoward he was sure had happened.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_57-84_0078.wav|Then, and at supper, he tried to fathom her.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_367-392_0385.wav|That's what Carnegie did.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_1-28_0015.wav|It's the aurora borealis.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_393-420_0409.wav|He could feel a new stir in the land.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_336-364_0340.wav|It was like the beating of hoofs.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_225_252_0251.wav|I may manage to freight a cargo back as well.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_225_252_0230.wav|Do you know any good land around here.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_253-280_0253.wav|He it was that lived to found the family of the Patino.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_449-476_0457.wav|What I saw I could not at first believe.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_113-140_0130.wav|She was his now, forever.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_253-280_0272.wav|You can take a vacation on pay.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_85-112_0101.wav|You, you would not keep the truth from me.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_449-476_0476.wav|At this moment I felt a stir at my shoulder.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_169-196_0175.wav|Down there the earth was already swelling with life.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_29-56_0036.wav|She turned in at the hotel.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Neutral/neutral_253-280_0259.wav|Think of investing in such an adventure.|0|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_309-336_0310.wav|Massage under tension, was the cryptic reply.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0354.wav|Fresh meat they failed to obtain.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_57-84_0078.wav|Then, and at supper, he tried to fathom her.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_393-420_0409.wav|He could feel a new stir in the land.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_225_252_0251.wav|I may manage to freight a cargo back as well.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0340.wav|It was like the beating of hoofs.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_336-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_367-392_0385.wav|That's what Carnegie did.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_253-280_0253.wav|He it was that lived to found the family of the Patino.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_85-112_0101.wav|You, you would not keep the truth from me.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_225_252_0230.wav|Do you know any good land around here.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_253-280_0272.wav|You can take a vacation on pay.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_113-140_0130.wav|She was his now, forever.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_1-28_0015.wav|It's the aurora borealis.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_29-56_0036.wav|She turned in at the hotel.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_253-280_0259.wav|Think of investing in such an adventure.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Angry/anger_169-196_0175.wav|Down there the earth was already swelling with life.|0|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_367-392_0385.wav|That's what Carnegie did.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_1-28_0015.wav|It's the aurora borealis.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0340.wav|It was like the beating of hoofs.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_393-420_0409.wav|He could feel a new stir in the land.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_57-84_0078.wav|Then, and at supper, he tried to fathom her.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_225-252_0251.wav|I may manage to freight a cargo back as well.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_309-336_0310.wav|Massage under tension, was the cryptic reply.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0354.wav|Fresh meat they failed to obtain.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_85-112_0101.wav|You, you would not keep the truth from me.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_336-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_169-196_0175.wav|Down there the earth was already swelling with life.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_253-280_0259.wav|Think of investing in such an adventure.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_29-56_0036.wav|She turned in at the hotel.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_113-140_0130.wav|She was his now, forever.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_253-280_0272.wav|You can take a vacation on pay.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_449-476_0476.wav|At this moment I felt a stir at my shoulder.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_225-252_0230.wav|Do you know any good land around here.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_253-280_0253.wav|He it was that lived to found the family of the Patino.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Amused/amused_449-476_0457.wav|What I saw I could not at first believe.|0|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_169_196_0175.wav|Down there the earth was already swelling with life.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_85-112_0101.wav|You, you would not keep the truth from me.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_253-280_0259.wav|Think of investing in such an adventure.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_449-476_0457.wav|What I saw I could not at first believe.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_253-280_0253.wav|He it was that lived to found the family of the Patino.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_281-308_0281.wav|I do not blame you for anything; remember that.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_449-476_0476.wav|At this moment I felt a stir at my shoulder.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_225-252_0230.wav|Do you know any good land around here.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_253-280_0272.wav|You can take a vacation on pay.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_113-140_0130.wav|She was his now, forever.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0036.wav|She turned in at the hotel.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_225-252_0251.wav|I may manage to freight a cargo back as well.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_367-392_0385.wav|That's what Carnegie did.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0340.wav|It was like the beating of hoofs.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_1-28_0015.wav|It's the aurora borealis.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_393-420_0409.wav|He could feel a new stir in the land.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_57-84_0078.wav|Then, and at supper, he tried to fathom her.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_336-364_0354.wav|Fresh meat they failed to obtain.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/sam/Sleepy/sleepiness_309-336_0310.wav|Massage under tension, was the cryptic reply.|0|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_365-392_0385.wav|That's what Carnegie did.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_281-307_0306.wav|He was pressing beyond the limits of his vocabulary.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_253-280_0259.wav|Think of investing in such an adventure.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_85-112_0101.wav|You, you would not keep the truth from me.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_169-196_0175.wav|Down there the earth was already swelling with life.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_253-280_0253.wav|He it was that lived to found the family of the Patino.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_449-476_0457.wav|What I saw I could not at first believe.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0036.wav|She turned in at the hotel.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_113-140_0130.wav|She was his now, forever.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_253-280_0272.wav|You can take a vacation on pay.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_449-476_0476.wav|At this moment I felt a stir at my shoulder.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_225-252_0230.wav|Do you know any good land around here.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_225-252_0251.wav|I may manage to freight a cargo back as well.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0340.wav|It was like the beating of hoofs.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_281-307_0281.wav|I do not blame you for anything; remember that.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_1-28_0015.wav|It's the aurora borealis.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_393-420_0409.wav|He could feel a new stir in the land.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_57-84_0078.wav|Then, and at supper, he tried to fathom her.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0354.wav|Fresh meat they failed to obtain.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_309-336_0310.wav|Massage under tension, was the cryptic reply.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Sleepy/sleepiness_337-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|2|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_225-252_0251.wav|I may manage to freight a cargo back as well.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_57-84_0078.wav|Then, and at supper, he tried to fathom her.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_309-336_0310.wav|Massage under tension, was the cryptic reply.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_1-28_0015.wav|It's the aurora borealis.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_169-196_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_29-56_0036.wav|She turned in at the hotel.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_253-280_0259.wav|Think of investing in such an adventure.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_85-112_0101.wav|You, you would not keep the truth from me.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_253-280_0253.wav|He it was that lived to found the family of the Patino.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_253-280_0272.wav|You can take a vacation on pay.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_113-140_0130.wav|She was his now, forever.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Angry/anger_225-252_0230.wav|Do you know any good land around here.|2|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_85-112_0101.wav|You, you would not keep the truth from me.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_29-45_0036.wav|She turned in at the hotel.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_57-84_0078.wav|Then, and at supper, he tried to fathom her.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_196-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_225-252_0251.wav|I may manage to freight a cargo back as well.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_225-252_0230.wav|Do you know any good land around here.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_1-15_0015.wav|It's the aurora borealis.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_253-280_0272.wav|You can take a vacation on pay.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_113-140_0130.wav|She was his now, forever.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_253-280_0253.wav|He it was that lived to found the family of the Patino.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_169-196_0175.wav|Down there the earth was already swelling with life.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_253-280_0259.wav|Think of investing in such an adventure.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Amused/amused_46-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|2|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_309-336_0310.wav|Massage under tension, was the cryptic reply.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_57-84_0078.wav|Then, and at supper, he tried to fathom her.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_225-252_0251.wav|I may manage to freight a cargo back as well.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_281-308_0281.wav|I do not blame you for anything; remember that.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_225-252_0230.wav|Do you know any good land around here.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_253-280_0272.wav|You can take a vacation on pay.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_113-140_0130.wav|She was his now, forever.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_253-280_0253.wav|He it was that lived to found the family of the Patino.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_29-56_0036.wav|She turned in at the hotel.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_169-196_0175.wav|Down there the earth was already swelling with life.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_253-280_0259.wav|Think of investing in such an adventure.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_1-28_0015.wav|It's the aurora borealis.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Disgusted/disgust_85-112_0101.wav|You, you would not keep the truth from me.|2|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_1-28_0015.wav|It's the aurora borealis.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_309-336_0310.wav|Massage under tension, was the cryptic reply.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0036.wav|She turned in at the hotel.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0354.wav|Fresh meat they failed to obtain.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0340.wav|It was like the beating of hoofs.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_225-252_0251.wav|I may manage to freight a cargo back as well.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_337-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_85-112_0101.wav|You, you would not keep the truth from me.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_253-280_0272.wav|You can take a vacation on pay.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_113-140_0130.wav|She was his now, forever.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_225-252_0230.wav|Do you know any good land around here.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_253-280_0253.wav|He it was that lived to found the family of the Patino.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_57-84_0078.wav|Then, and at supper, he tried to fathom her.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/Neutral_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_169-196_0175.wav|Down there the earth was already swelling with life.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_113-140_0015.wav|It's the aurora borealis.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/bea/Neutral/neutral_253-280_0259.wav|Think of investing in such an adventure.|2|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_1-28_0015.wav|It's the aurora borealis.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0036.wav|She turned in at the hotel.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_253-280_0259.wav|Think of investing in such an adventure.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_169-196_0175.wav|Down there the earth was already swelling with life.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_449-476_0457.wav|What I saw I could not at first believe.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_369-392_0385.wav|That's what Carnegie did.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_113-140_0130.wav|She was his now, forever.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_253-280_0272.wav|You can take a vacation on pay.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_225-252_0230.wav|Do you know any good land around here.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_449-476_0476.wav|At this moment I felt a stir at my shoulder.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_225-252_0251.wav|I may manage to freight a cargo back as well.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_57-84_0078.wav|Then, and at supper, he tried to fathom her.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0340.wav|It was like the beating of hoofs.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_393-420_0409.wav|He could feel a new stir in the land.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0354.wav|Fresh meat they failed to obtain.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_309-336_0310.wav|Massage under tension, was the cryptic reply.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_337-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Angry/anger_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|3|2
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_29-56_0036.wav|She turned in at the hotel.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_449-476_0457.wav|What I saw I could not at first believe.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_95-112_0101.wav|You, you would not keep the truth from me.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_449-476_0476.wav|At this moment I felt a stir at my shoulder.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_225-252_0230.wav|Do you know any good land around here.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_225-252_0251.wav|I may manage to freight a cargo back as well.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_1-28_0015.wav|It's the aurora borealis.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_57-84_0078.wav|Then, and at supper, he tried to fathom her.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_113-136_0130.wav|She was his now, forever.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_309-336_0310.wav|Massage under tension, was the cryptic reply.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Amused/amused_113-136_0113.wav|I suppose you picked that lingo up among the Indians.|3|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_169-190_0175.wav|Down there the earth was already swelling with life.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_393-420_0409.wav|He could feel a new stir in the land.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_253-280_0253.wav|He it was that lived to found the family of the Patino.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_253-280_0272.wav|You can take a vacation on pay.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_85-112_0101.wav|You, you would not keep the truth from me.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_253-280_0259.wav|Think of investing in such an adventure.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Disgusted/disgust_29-56_0036.wav|She turned in at the hotel.|3|3
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_57-84_0078.wav|Then, and at supper, he tried to fathom her.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0230.wav|Do you know any good land around here.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0306.wav|He was pressing beyond the limits of his vocabulary.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_1-28_0015.wav|It's the aurora borealis.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0219.wav|At first he puzzled over something untoward he was sure had happened.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0310.wav|Massage under tension, was the cryptic reply.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0354.wav|Fresh meat they failed to obtain.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_365-392_0385.wav|That's what Carnegie did.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0259.wav|Think of investing in such an adventure.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_29-56_0036.wav|She turned in at the hotel.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0281.wav|I do not blame you for anything; remember that.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_169-196_0175.wav|Down there the earth was already swelling with life.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0340.wav|It was like the beating of hoofs.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0272.wav|You can take a vacation on pay.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0251.wav|I may manage to freight a cargo back as well.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_113-140_0130.wav|She was his now, forever.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_85-112_0101.wav|You, you would not keep the truth from me.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Neutral/neutral_197-364_0253.wav|He it was that lived to found the family of the Patino.|3|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_281-308_0281.wav|I do not blame you for anything; remember that.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_449-476_0476.wav|At this moment I felt a stir at my shoulder.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_225-252_0230.wav|Do you know any good land around here.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_253-280_0272.wav|You can take a vacation on pay.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_113-140_0130.wav|She was his now, forever.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0036.wav|She turned in at the hotel.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_449-476_0457.wav|What I saw I could not at first believe.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_253-280_0253.wav|He it was that lived to found the family of the Patino.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_449-476_0471.wav|I saw Mr Pike nod his head grimly and sarcastically.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_169-196_0175.wav|Down there the earth was already swelling with life.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_253-280_0259.wav|Think of investing in such an adventure.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_365-392_0385.wav|That's what Carnegie did.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0354.wav|Fresh meat they failed to obtain.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_309-336_0310.wav|Massage under tension, was the cryptic reply.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0350.wav|Is that Pat Hanrahan's mug looking hungry and willing.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_57-84_0078.wav|Then, and at supper, he tried to fathom her.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0340.wav|It was like the beating of hoofs.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_1-28_0015.wav|It's the aurora borealis.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_337-360_0358.wav|They continued valiantly to lie, but the truth continued to outrun them.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_393-420_0409.wav|He could feel a new stir in the land.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/jenie/Sleepy/sleepiness_225-252_0251.wav|I may manage to freight a cargo back as well.|3|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0036.wav|She turned in at the hotel.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_253-280_0259.wav|Think of investing in such an adventure.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_169-196_0175.wav|Down there the earth was already swelling with life.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_253-280_0253.wav|He it was that lived to found the family of the Patino.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_113-140_0130.wav|She was his now, forever.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_253-280_0272.wav|You can take a vacation on pay.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_85-112_0101.wav|You, you would not keep the truth from me.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_225-252_0230.wav|Do you know any good land around here.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_225-252_0251.wav|I may manage to freight a cargo back as well.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_57-84_0078.wav|Then, and at supper, he tried to fathom her.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_1-28_0015.wav|It's the aurora borealis.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Neutral/neutral_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|1|0
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0036.wav|She turned in at the hotel.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_85-112_0101.wav|You, you would not keep the truth from me.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_141_168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_225_252_0251.wav|I may manage to freight a cargo back as well.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_1-28_0015.wav|It's the aurora borealis.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_252-280_0272.wav|You can take a vacation on pay.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_113-140_0113.wav|I suppose you picked that lingo up among the Indians.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_225_252_0230.wav|Do you know any good land around here.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_252-280_0253.wav|He it was that lived to found the family of the Patino.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_113-140_0130.wav|She was his now, forever.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_74_84_0078.wav|Then, and at supper, he tried to fathom her.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_252-280_0259.wav|Think of investing in such an adventure.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_169-196_0175.wav|Down there the earth was already swelling with life.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Amused/amused_27-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|1|1
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_113_140_0130.wav|She was his now, forever.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_253_280_0272.wav|You can take a vacation on pay.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_225-252_0230.wav|Do you know any good land around here.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_281-308_0281.wav|I do not blame you for anything; remember that.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_113_140_0113.wav|I suppose you picked that lingo up among the Indians.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_29-56_0036.wav|She turned in at the hotel.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_253_280_0253.wav|He it was that lived to found the family of the Patino.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_253_280_0259.wav|Think of investing in such an adventure.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_169-196_0175.wav|Down there the earth was already swelling with life.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_85-112_0101.wav|You, you would not keep the truth from me.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_57-84_0078.wav|Then, and at supper, he tried to fathom her.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_281-308_0306.wav|He was pressing beyond the limits of his vocabulary.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_225-252_0251.wav|I may manage to freight a cargo back as well.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_197-224_0219.wav|At first he puzzled over something untoward he was sure had happened.|1|4
+/checkpoint/felixkreuk/datasets/emov/wavs16/josh/Sleepy/sleepiness_1-28_0015.wav|It's the aurora borealis.|1|4
