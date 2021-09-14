@@ -1,10 +1,12 @@
-from math import sqrt
+from math import sqrt, ceil
 import torch
 from torch.autograd import Variable
 from torch import nn
 from torch.nn import functional as F
 from layers import ConvNorm, LinearNorm
 from utils import to_gpu, get_mask_from_lengths
+
+drop_rate = 0.5
 
 
 class LocationLayer(nn.Module):
@@ -214,7 +216,14 @@ class Decoder(nn.Module):
         self.gate_threshold = hparams.gate_threshold
         self.p_attention_dropout = hparams.p_attention_dropout
         self.p_decoder_dropout = hparams.p_decoder_dropout
-        self.encoder_embedding_dim += hparams.speakers_emb_dim + hparams.styles_emb_dim
+
+        if hparams.use_speaker_emb:
+            self.encoder_embedding_dim += hparams.speakers_emb_dim
+        if hparams.use_style_emb:
+            if hparams.gst_type == "lut":
+                self.encoder_embedding_dim += hparams.styles_emb_dim
+            else:
+                self.encoder_embedding_dim += hparams.prosody_embedding_dim
 
         self.prenet = Prenet(
             hparams.n_mel_channels * hparams.n_frames_per_step,
@@ -458,6 +467,7 @@ class Decoder(nn.Module):
 class Tacotron2(nn.Module):
     def __init__(self, hparams):
         super(Tacotron2, self).__init__()
+        self.hparams = hparams
         self.mask_padding = hparams.mask_padding
         self.fp16_run = hparams.fp16_run
         self.n_mel_channels = hparams.n_mel_channels
@@ -471,8 +481,16 @@ class Tacotron2(nn.Module):
         self.decoder = Decoder(hparams)
         self.postnet = Postnet(hparams)
 
-        self.speakers_emb = nn.Embedding(hparams.n_speakers, hparams.speakers_emb_dim)
-        self.styles_emb = nn.Embedding(hparams.n_styles, hparams.styles_emb_dim)
+        if hparams.use_speaker_emb:
+            print(f"==> using speaker LUT")
+            self.speakers_emb = nn.Embedding(hparams.n_speakers, hparams.speakers_emb_dim)
+        if hparams.use_style_emb:
+            if hparams.gst_type == "lut":
+                print(f"==> using style LUT")
+                self.styles_emb = nn.Embedding(hparams.n_styles, hparams.styles_emb_dim)
+            else:
+                print(f"==> using style MEL")
+                self.styles_emb = Prosody(hparams)
 
     def parse_batch(self, batch):
         text_padded, input_lengths, mel_padded, gate_padded, \
@@ -510,11 +528,17 @@ class Tacotron2(nn.Module):
 
         encoder_outputs = self.encoder(embedded_inputs, text_lengths)
 
-        speaker_emb = self.speakers_emb(speakers)
-        styles_emb = self.styles_emb(styles)
-        speaker_emb = speaker_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
-        styles_emb = styles_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
-        encoder_outputs = torch.cat([encoder_outputs, speaker_emb, styles_emb], dim=-1)
+        if self.hparams.use_speaker_emb:
+            speaker_emb = self.speakers_emb(speakers)
+            speaker_emb = speaker_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
+            encoder_outputs = torch.cat([encoder_outputs, speaker_emb], dim=-1)
+        if self.hparams.use_style_emb:
+            if self.hparams.gst_type == "lut":
+                styles_emb = self.styles_emb(styles)
+            else:
+                styles_emb = self.styles_emb(mels)
+            styles_emb = styles_emb.unsqueeze(1).repeat(1, encoder_outputs.shape[1], 1)
+            encoder_outputs = torch.cat([encoder_outputs, styles_emb], dim=-1)
 
         mel_outputs, gate_outputs, alignments = self.decoder(
             encoder_outputs, mels, memory_lengths=text_lengths)
@@ -539,3 +563,53 @@ class Tacotron2(nn.Module):
             [mel_outputs, mel_outputs_postnet, gate_outputs, alignments])
 
         return outputs
+
+
+class Prosody(torch.nn.Module):
+    '''
+    Args:
+      inputs: A 3d tensor with shape of (N, n_mels, Ty), with dtype of float32.
+                Melspectrogram of reference audio.
+      is_training: Whether or not the layer is in training mode.
+    Returns:
+      Prosody vectors. Has the shape of (N, 128).
+    '''
+    def __init__(self, hparams):
+        super(Prosody, self).__init__()
+
+        self.kernel = hparams.prosody_conv_kernel
+        self.stride = hparams.prosody_conv_stride
+        self.padding = max(self.kernel - self.stride, 0)
+        self.prosody_embedding_dim = hparams.prosody_embedding_dim
+
+        convolutions = []
+        for i in range(hparams.prosody_n_convolutions):
+            conv_layer = nn.Sequential(
+                ConvNorm(hparams.prosody_conv_dim_in[i],
+                        hparams.prosody_conv_dim_out[i],
+                        kernel_size=self.kernel, stride=self.stride,
+                        padding=self.padding,
+                        dilation=1, w_init_gain='relu'),
+                nn.BatchNorm1d(hparams.prosody_conv_dim_out[i])
+            )
+            convolutions.append(conv_layer)
+
+        self.convolutions = nn.ModuleList(convolutions)
+        self.gru = torch.nn.GRU(input_size=hparams.prosody_conv_dim_out[-1], hidden_size=self.prosody_embedding_dim, num_layers=1)
+        self.fc = torch.nn.Linear(in_features=self.prosody_embedding_dim, out_features=self.prosody_embedding_dim)
+
+    def forward(self, x):
+        """
+        in [N, 1, n_mel, Ty], out [N, 128]
+        out -> [N, n_class] for test
+        """
+        for conv in self.convolutions:
+            x = F.dropout(F.relu(conv(x)), drop_rate, self.training)
+        x = x.permute(0, 2, 1)
+        gru_output, _ = self.gru(x)
+        gru_output = gru_output[:, -1, :] # take last value
+        fc_output = torch.tanh(self.fc(gru_output))
+        return fc_output
+
+    def inference(self, x):
+        return self.forward(x)

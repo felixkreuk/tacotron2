@@ -24,7 +24,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Data Parameters             #
         ################################
-        num_workers=0,
+        num_workers=10,
         load_mel_from_disk=False,
         training_files='filelists/ljs_audio_text_train_filelist.txt',
         validation_files='filelists/ljs_audio_text_val_filelist.txt',
@@ -45,10 +45,22 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################
+        use_style_emb=False,
+        use_speaker_emb=False,
+        gst_type="lut", # [lut, mel]
         n_speakers=4,
         speakers_emb_dim=32,
         n_styles=5,
         styles_emb_dim=32,
+
+        # Prosody embedding parameters
+        prosody_n_convolutions = 6,
+        prosody_conv_dim_in = [80, 32, 32, 64, 64, 128],
+        prosody_conv_dim_out = [32, 32, 64, 64, 128, 128],
+        prosody_conv_kernel = 3,
+        prosody_conv_stride = 2,
+        prosody_embedding_dim = 128,
+
         n_symbols=len(symbols),
         symbols_embedding_dim=512,
 
